@@ -1,4 +1,10 @@
-# SOT
-Shop on time 
-A group project for the online business system which handels multiple task.
-created by:- Pratik Vora, Priyansh Khandelwal , Rishabh Malakar.
+# Shop-On-Time
+In this project we are going to Manage airplane tickets of multiple person for their multiple destination place.
+
+Team Members
+
+1.Rishabh Malakar	
+
+2.Priyansh Khandelwal	
+
+3.Pratik Vora
